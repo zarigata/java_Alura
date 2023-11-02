@@ -6,6 +6,6 @@ public class Main {
         int yearOfLauch = 1942;//declaracao de integro
         System.out.println("Debunqued:"+yearOfLauch);
         boolean incluidoNoPlano = false;
-        double battleRatting = 6.3;
+        double battleRatting = 6.4;
     }
 }
