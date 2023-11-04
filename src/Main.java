@@ -1,7 +1,6 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Esse aplicativo seria mais legal em python");
-        //DECLARACAO DO FILME
         System.out.println("Tank: Panzerkrafwagen Aufs VI : Tiger");
         int yearOfLauch = 1942;//declaracao de integro
         System.out.println("Debunqued:"+yearOfLauch);
