@@ -12,7 +12,8 @@ public class Main {
         Tiger is the most famous tank in ww2 of the german army
         made by Heinkel and powered by porche, 
         this tank was the most feared and most destructible in the fields of ww2 in the 1942 battles
-        """;
+        battlerating 
+        """ + battleRatting;
         System.out.println(about);
     }
 }
