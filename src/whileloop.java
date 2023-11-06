@@ -16,7 +16,12 @@ public class whileloop {
             }
 
         }
-        System.out.println("avrenge of BR" + avenge/counting);
+        if (avenge == 0){
+            System.out.println("CANT DIVIDE BY 0");
+        }else {
+            System.out.println("avrenge of BR" + avenge/counting);
+        }
+
     }
 }
 
